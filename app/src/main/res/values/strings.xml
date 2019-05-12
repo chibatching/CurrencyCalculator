@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CurrencyCalculator</string>
+    <string name="error_message">Error: failed to retrieve currency list or rates</string>
+</resources>
